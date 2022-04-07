@@ -1,7 +1,9 @@
 ### 유튜브 클론코딩 영상 클론코딩 후, 일부 수정
+
 ![짧은ver](https://user-images.githubusercontent.com/101965666/162182881-e4819e64-ec41-4e5b-87b3-bce7267751a1.gif)
 
 <br>
+
 #### 클론코딩 영상 주소: https://www.youtube.com/watch?v=67stn7Pu7s4&feature=youtu.be&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC
 
 <br>
